@@ -13,7 +13,6 @@
 
 ## Here is what i am working on...
 - I am currently in covid-19 holidays and in my second #100daysofcode
-- so currently i am learning adobe illustrator 
+- learning flutter app development
 - diffrent projects on python , course on udemy
-- and course of becomming data analyst by linkedin
 
