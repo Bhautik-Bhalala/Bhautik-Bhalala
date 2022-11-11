@@ -3,7 +3,6 @@ Hi there, I'm Bhautik Bhalala 👋
 Blockchain Developer
 
 🤖 I’m currently working as Software engineer at TCS and working on Blockchain Dapp Projects 
-⚡ Fun fact: I love to Play Fifa
 
 🛠️ Languages and Tools :
 
