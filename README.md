@@ -1,4 +1,5 @@
-[Bhautik Bhalala Resume .pdf](https://github.com/Bhautik-Bhalala/Bhautik-Bhalala/files/9034595/Bhautik.Bhalala.Resume.pdf)
+[BHAUTIK BHALALA RESUME](https://github.com/Bhautik-Bhalala/Bhautik-Bhalala/files/9989470/Bhautik.Bhalala.pdf)
+
 Hi there, I'm Bhautik Bhalala 👋
 Software Engineer and Blockchain Developer
 
