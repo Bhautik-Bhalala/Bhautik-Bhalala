@@ -5,6 +5,9 @@ Software Engineer and Blockchain Developer
 
 🤖 I’m currently working as Software engineer at TCS and working on Blockchain Dapp Projects with Reactjs and also projects on Automation
 
+
+# 🛠️ MY TECH STACK
+
 🛠️ Languages and Tools :<br />
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -39,5 +42,7 @@ Software Engineer and Blockchain Developer
 <img src="https://github.com/devicons/devicon/raw/master/icons/react/react-original-wordmark.svg" width="30" height="30">
 <img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original-wordmark.svg" width="30" height="30">
 
+
+![Bhautik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bhautik-Bhalala&show_icons=true&theme=transparent)
 
 
