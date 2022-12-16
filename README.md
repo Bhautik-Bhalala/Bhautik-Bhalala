@@ -1,7 +1,7 @@
 [BHAUTIK BHALALA RESUME](https://github.com/Bhautik-Bhalala/Bhautik-Bhalala/files/9989470/Bhautik.Bhalala.pdf)
 
 Hi there, I'm Bhautik Bhalala 👋   
-Software Engineer & Blockchain Developer      
+Software Engineer & Blockchain Developer       
    
 🤖 I’m currently working as Software engineer at TCS and working on Blockchain Dapp Projects with Reactjs and also projects on Automation
    
